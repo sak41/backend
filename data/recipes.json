@@ -1,0 +1,323 @@
+[
+  {
+    "title": "Pasta Marinara",
+    "description": "Simple tomato pasta",
+    "cuisine": "Italian",
+    "difficulty": "easy",
+    "cookTimeMinutes": 25,
+    "servings": 2,
+    "ingredients": [
+      { "name": "spaghetti", "qty": 200, "unit": "g" },
+      { "name": "tomato", "qty": 3, "unit": "pcs" },
+      { "name": "garlic", "qty": 2, "unit": "cloves" },
+      { "name": "olive oil", "qty": 2, "unit": "tbsp" }
+    ],
+    "steps": ["Boil pasta", "Make sauce with tomato and garlic", "Combine and serve"],
+    "nutrition": { "calories": 450, "protein": 12, "fat": 14, "carbs": 65 },
+    "tags": ["vegetarian"]
+  },
+  {
+    "title": "Grilled Chicken",
+    "description": "Quick grilled chicken breast",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "cookTimeMinutes": 20,
+    "servings": 2,
+    "ingredients": [
+      { "name": "chicken breast", "qty": 300, "unit": "g" },
+      { "name": "salt", "qty": 1, "unit": "tsp" },
+      { "name": "pepper", "qty": 0.5, "unit": "tsp" }
+    ],
+    "steps": ["Season chicken", "Grill 6-8 minutes each side", "Rest and serve"],
+    "nutrition": { "calories": 350, "protein": 45, "fat": 8, "carbs": 0 },
+    "tags": []
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "description": "Mixed veggies in soy sauce",
+    "cuisine": "Asian",
+    "difficulty": "easy",
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "ingredients": [
+      { "name": "broccoli", "qty": 150, "unit": "g" },
+      { "name": "carrot", "qty": 1, "unit": "pcs" },
+      { "name": "bell pepper", "qty": 1, "unit": "pcs" },
+      { "name": "soy sauce", "qty": 1, "unit": "tbsp" }
+    ],
+    "steps": ["Chop veggies", "Stir fry on high heat", "Add soy and serve"],
+    "nutrition": { "calories": 200, "protein": 6, "fat": 5, "carbs": 30 },
+    "tags": ["vegetarian", "vegan"]
+  },
+  {
+    "title": "Tomato Soup",
+    "description": "Creamy tomato soup",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "ingredients": [
+      { "name": "tomato", "qty": 6, "unit": "pcs" },
+      { "name": "onion", "qty": 1, "unit": "pcs" },
+      { "name": "cream", "qty": 100, "unit": "ml" }
+    ],
+    "steps": ["Cook tomatoes and onion", "Blend", "Add cream and simmer"],
+    "nutrition": { "calories": 120, "protein": 3, "fat": 6, "carbs": 14 },
+    "tags": ["vegetarian"]
+  },
+  {
+    "title": "Cheese Omelette",
+    "description": "Classic omelette",
+    "cuisine": "French",
+    "difficulty": "easy",
+    "cookTimeMinutes": 10,
+    "servings": 1,
+    "ingredients": [
+      { "name": "egg", "qty": 2, "unit": "pcs" },
+      { "name": "cheese", "qty": 40, "unit": "g" },
+      { "name": "butter", "qty": 1, "unit": "tbsp" }
+    ],
+    "steps": ["Beat eggs", "Pour to pan", "Add cheese and fold"],
+    "nutrition": { "calories": 300, "protein": 18, "fat": 24, "carbs": 2 },
+    "tags": []
+  },
+  {
+    "title": "Pancakes",
+    "description": "Quick breakfast pancakes",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "ingredients": [
+      { "name": "flour", "qty": 200, "unit": "g" },
+      { "name": "milk", "qty": 300, "unit": "ml" },
+      { "name": "egg", "qty": 1, "unit": "pcs" }
+    ],
+    "steps": ["Mix batter", "Fry small pancakes", "Serve with syrup"],
+    "nutrition": { "calories": 350, "protein": 8, "fat": 10, "carbs": 55 },
+    "tags": ["vegetarian"]
+  },
+  {
+    "title": "Caesar Salad",
+    "description": "Classic Caesar salad",
+    "cuisine": "Italian",
+    "difficulty": "easy",
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "ingredients": [
+      { "name": "romaine lettuce", "qty": 200, "unit": "g" },
+      { "name": "parmesan", "qty": 30, "unit": "g" },
+      { "name": "croutons", "qty": 50, "unit": "g" }
+    ],
+    "steps": ["Chop lettuce", "Toss with dressing & parmesan", "Serve"],
+    "nutrition": { "calories": 250, "protein": 10, "fat": 18, "carbs": 10 },
+    "tags": []
+  },
+  {
+    "title": "Beef Tacos",
+    "description": "Spicy beef tacos",
+    "cuisine": "Mexican",
+    "difficulty": "medium",
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "ingredients": [
+      { "name": "minced beef", "qty": 400, "unit": "g" },
+      { "name": "taco shells", "qty": 8, "unit": "pcs" },
+      { "name": "onion", "qty": 1, "unit": "pcs" }
+    ],
+    "steps": ["Cook beef with spices", "Fill shells", "Serve with salad"],
+    "nutrition": { "calories": 500, "protein": 25, "fat": 28, "carbs": 35 },
+    "tags": []
+  },
+  {
+    "title": "Chickpea Curry",
+    "description": "Comforting chickpea curry",
+    "cuisine": "Indian",
+    "difficulty": "easy",
+    "cookTimeMinutes": 35,
+    "servings": 4,
+    "ingredients": [
+      { "name": "chickpeas", "qty": 400, "unit": "g" },
+      { "name": "tomato", "qty": 2, "unit": "pcs" },
+      { "name": "onion", "qty": 1, "unit": "pcs" }
+    ],
+    "steps": ["Saute onion & spices", "Add tomato and chickpeas", "Simmer"],
+    "nutrition": { "calories": 360, "protein": 15, "fat": 8, "carbs": 50 },
+    "tags": ["vegetarian", "vegan"]
+  },
+  {
+    "title": "Lentil Soup",
+    "description": "Hearty lentil soup",
+    "cuisine": "Mediterranean",
+    "difficulty": "easy",
+    "cookTimeMinutes": 40,
+    "servings": 4,
+    "ingredients": [
+      { "name": "lentils", "qty": 200, "unit": "g" },
+      { "name": "carrot", "qty": 1, "unit": "pcs" },
+      { "name": "celery", "qty": 1, "unit": "stalk" }
+    ],
+    "steps": ["Saute veggies", "Add lentils and simmer", "Season and serve"],
+    "nutrition": { "calories": 220, "protein": 12, "fat": 3, "carbs": 35 },
+    "tags": ["vegetarian", "vegan"]
+  },
+  {
+    "title": "Banana Smoothie",
+    "description": "Quick smoothie",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "cookTimeMinutes": 5,
+    "servings": 1,
+    "ingredients": [
+      { "name": "banana", "qty": 1, "unit": "pcs" },
+      { "name": "milk", "qty": 250, "unit": "ml" }
+    ],
+    "steps": ["Blend banana and milk", "Serve chilled"],
+    "nutrition": { "calories": 200, "protein": 6, "fat": 4, "carbs": 36 },
+    "tags": []
+  },
+  {
+    "title": "Fried Rice",
+    "description": "Easy fried rice with veggies",
+    "cuisine": "Asian",
+    "difficulty": "easy",
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "ingredients": [
+      { "name": "cooked rice", "qty": 300, "unit": "g" },
+      { "name": "egg", "qty": 1, "unit": "pcs" },
+      { "name": "peas", "qty": 100, "unit": "g" }
+    ],
+    "steps": ["Stir fry veggies", "Add rice and egg", "Season & serve"],
+    "nutrition": { "calories": 420, "protein": 10, "fat": 12, "carbs": 65 },
+    "tags": []
+  },
+  {
+    "title": "Mushroom Risotto",
+    "description": "Creamy risotto with mushrooms",
+    "cuisine": "Italian",
+    "difficulty": "medium",
+    "cookTimeMinutes": 40,
+    "servings": 2,
+    "ingredients": [
+      { "name": "arborio rice", "qty": 200, "unit": "g" },
+      { "name": "mushroom", "qty": 200, "unit": "g" },
+      { "name": "parmesan", "qty": 30, "unit": "g" }
+    ],
+    "steps": ["Cook rice slowly adding stock", "Stir in mushrooms & parmesan"],
+    "nutrition": { "calories": 520, "protein": 12, "fat": 18, "carbs": 75 },
+    "tags": ["vegetarian"]
+  },
+  {
+    "title": "Quinoa Salad",
+    "description": "Fresh quinoa salad",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "cookTimeMinutes": 20,
+    "servings": 2,
+    "ingredients": [
+      { "name": "quinoa", "qty": 150, "unit": "g" },
+      { "name": "cucumber", "qty": 1, "unit": "pcs" },
+      { "name": "tomato", "qty": 1, "unit": "pcs" }
+    ],
+    "steps": ["Cook quinoa", "Chop veggies and toss together", "Serve"],
+    "nutrition": { "calories": 320, "protein": 10, "fat": 7, "carbs": 50 },
+    "tags": ["vegetarian", "vegan", "gluten-free"]
+  },
+  {
+    "title": "Chocolate Mug Cake",
+    "description": "Single-serving dessert in a mug",
+    "cuisine": "Dessert",
+    "difficulty": "easy",
+    "cookTimeMinutes": 3,
+    "servings": 1,
+    "ingredients": [
+      { "name": "flour", "qty": 30, "unit": "g" },
+      { "name": "cocoa powder", "qty": 15, "unit": "g" },
+      { "name": "sugar", "qty": 20, "unit": "g" }
+    ],
+    "steps": ["Mix ingredients in mug", "Microwave 90 seconds", "Serve"],
+    "nutrition": { "calories": 330, "protein": 4, "fat": 12, "carbs": 50 },
+    "tags": ["vegetarian"]
+  },
+  {
+    "title": "Shrimp Scampi",
+    "description": "Garlic shrimp pasta",
+    "cuisine": "Italian",
+    "difficulty": "medium",
+    "cookTimeMinutes": 20,
+    "servings": 2,
+    "ingredients": [
+      { "name": "shrimp", "qty": 250, "unit": "g" },
+      { "name": "garlic", "qty": 3, "unit": "cloves" },
+      { "name": "butter", "qty": 30, "unit": "g" }
+    ],
+    "steps": ["Saute garlic in butter", "Add shrimp and cook", "Serve with pasta"],
+    "nutrition": { "calories": 420, "protein": 30, "fat": 18, "carbs": 20 },
+    "tags": []
+  },
+  {
+    "title": "Avocado Toast",
+    "description": "Simple avocado toast",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "cookTimeMinutes": 7,
+    "servings": 1,
+    "ingredients": [
+      { "name": "bread", "qty": 2, "unit": "slices" },
+      { "name": "avocado", "qty": 1, "unit": "pcs" },
+      { "name": "lemon", "qty": 0.5, "unit": "pcs" }
+    ],
+    "steps": ["Toast bread", "Mash avocado with lemon", "Spread & serve"],
+    "nutrition": { "calories": 350, "protein": 6, "fat": 20, "carbs": 34 },
+    "tags": ["vegetarian"]
+  },
+  {
+    "title": "Greek Salad",
+    "description": "Light Greek salad with feta",
+    "cuisine": "Greek",
+    "difficulty": "easy",
+    "cookTimeMinutes": 10,
+    "servings": 2,
+    "ingredients": [
+      { "name": "cucumber", "qty": 1, "unit": "pcs" },
+      { "name": "tomato", "qty": 2, "unit": "pcs" },
+      { "name": "feta", "qty": 80, "unit": "g" }
+    ],
+    "steps": ["Chop veggies", "Add feta and dressing", "Serve chilled"],
+    "nutrition": { "calories": 270, "protein": 9, "fat": 18, "carbs": 12 },
+    "tags": ["vegetarian"]
+  },
+  {
+    "title": "Pumpkin Soup",
+    "description": "Creamy pumpkin soup",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "cookTimeMinutes": 45,
+    "servings": 4,
+    "ingredients": [
+      { "name": "pumpkin", "qty": 500, "unit": "g" },
+      { "name": "onion", "qty": 1, "unit": "pcs" },
+      { "name": "cream", "qty": 100, "unit": "ml" }
+    ],
+    "steps": ["Cook pumpkin and onion", "Blend", "Add cream and simmer"],
+    "nutrition": { "calories": 180, "protein": 3, "fat": 9, "carbs": 20 },
+    "tags": ["vegetarian"]
+  },
+  {
+    "title": "Veggie Burger",
+    "description": "Homemade veggie burger",
+    "cuisine": "American",
+    "difficulty": "medium",
+    "cookTimeMinutes": 30,
+    "servings": 2,
+    "ingredients": [
+      { "name": "burger buns", "qty": 2, "unit": "pcs" },
+      { "name": "black beans", "qty": 200, "unit": "g" },
+      { "name": "onion", "qty": 1, "unit": "pcs" }
+    ],
+    "steps": ["Mash beans & form patties", "Fry patties", "Assemble burger"],
+    "nutrition": { "calories": 420, "protein": 14, "fat": 10, "carbs": 60 },
+    "tags": ["vegetarian", "vegan"]
+  }
+]
